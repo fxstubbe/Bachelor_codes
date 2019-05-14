@@ -1,2 +1,3 @@
-# Bachelor_math_3-
-Numerical Exploration and Monte Carlo algorithm
+# Bachelor's degree : Math 3 (Hidden Markoc, Monte Carlo, Numerical explorations)
+
+Saved codes for the class
